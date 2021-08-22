@@ -1,2 +1,7 @@
 # remindIPA
-remind you of IPA examiniation schedule
+
+## 背景.
+2021/08/06(金)までのIPAの試験申し込みを忘れた
+
+## 目的.
+IPAの試験申し込みを通知 + αする
