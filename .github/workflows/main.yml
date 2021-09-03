@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Request API
-        run: sh ./../../sh/checkNextIPA.sh
+        run: sh ./sh/checkNextIPA.sh
